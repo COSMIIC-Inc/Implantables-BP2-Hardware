@@ -1,4 +1,4 @@
-# Implantables-BiopotentialRecording-Hardware Read Me
+# Implantables-BP2-Hardware Read Me
 
 ## Contents
 This repository is home to the 3D CAD and PCB design files of the BP2 - Biopotential Recording Module in the COSMIIC System.
